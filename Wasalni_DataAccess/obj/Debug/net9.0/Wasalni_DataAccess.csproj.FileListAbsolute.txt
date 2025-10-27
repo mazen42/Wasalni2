@@ -1,0 +1,15 @@
+D:\Wasalni\Wasalni\Wasalni_DataAccess\bin\Debug\net9.0\Wasalni_DataAccess.deps.json
+D:\Wasalni\Wasalni\Wasalni_DataAccess\bin\Debug\net9.0\Wasalni_DataAccess.dll
+D:\Wasalni\Wasalni\Wasalni_DataAccess\bin\Debug\net9.0\Wasalni_DataAccess.pdb
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\Wasalni_DataAccess.csproj.AssemblyReference.cache
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\Wasalni_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\Wasalni_DataAccess.AssemblyInfoInputs.cache
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\Wasalni_DataAccess.AssemblyInfo.cs
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\Wasalni_DataAccess.csproj.CoreCompileInputs.cache
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\Wasalni_DataAccess.dll
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\refint\Wasalni_DataAccess.dll
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\Wasalni_DataAccess.pdb
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\ref\Wasalni_DataAccess.dll
+D:\Wasalni\Wasalni\Wasalni_DataAccess\bin\Debug\net9.0\Wasalni_Models.dll
+D:\Wasalni\Wasalni\Wasalni_DataAccess\bin\Debug\net9.0\Wasalni_Models.pdb
+D:\Wasalni\Wasalni\Wasalni_DataAccess\obj\Debug\net9.0\Wasalni_.64BDCE8F.Up2Date
