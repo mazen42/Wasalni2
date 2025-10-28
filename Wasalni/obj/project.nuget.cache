@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nh+4IVTeIp8=",
+  "dgSpecHash": "d5SUzEAqROg=",
   "success": true,
   "projectFilePath": "D:\\Wasalni\\Wasalni\\Wasalni\\Wasalni.csproj",
   "expectedPackageFiles": [
@@ -139,6 +139,7 @@
     "C:\\Users\\G.A\\.nuget\\packages\\nuget.projectmodel\\6.11.0\\nuget.projectmodel.6.11.0.nupkg.sha512",
     "C:\\Users\\G.A\\.nuget\\packages\\nuget.protocol\\6.11.0\\nuget.protocol.6.11.0.nupkg.sha512",
     "C:\\Users\\G.A\\.nuget\\packages\\nuget.versioning\\6.11.0\\nuget.versioning.6.11.0.nupkg.sha512",
+    "C:\\Users\\G.A\\.nuget\\packages\\servicestack.interfaces\\8.9.0\\servicestack.interfaces.8.9.0.nupkg.sha512",
     "C:\\Users\\G.A\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\G.A\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
     "C:\\Users\\G.A\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",

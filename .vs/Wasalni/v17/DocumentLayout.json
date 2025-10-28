@@ -1,16 +1,66 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Wasalni\\Wasalni\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|d:\\wasalni\\wasalni\\wasalni\\infrastructure\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|solutionrelative:wasalni\\infrastructure\\repositories\\applicationuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|d:\\wasalni\\wasalni\\wasalni\\infrastructure\\interfaces\\iapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|solutionrelative:wasalni\\infrastructure\\interfaces\\iapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDCF6E1-4218-4F86-9A97-4503FDAD642F}|Wasalni_Models\\Wasalni_Models.csproj|d:\\wasalni\\wasalni\\wasalni_models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDCF6E1-4218-4F86-9A97-4503FDAD642F}|Wasalni_Models\\Wasalni_Models.csproj|solutionrelative:wasalni_models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFDCF6E1-4218-4F86-9A97-4503FDAD642F}|Wasalni_Models\\Wasalni_Models.csproj|d:\\wasalni\\wasalni\\wasalni_models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFDCF6E1-4218-4F86-9A97-4503FDAD642F}|Wasalni_Models\\Wasalni_Models.csproj|solutionrelative:wasalni_models\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|d:\\wasalni\\wasalni\\wasalni\\infrastructure\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|solutionrelative:wasalni\\infrastructure\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|d:\\wasalni\\wasalni\\wasalni\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|solutionrelative:wasalni\\infrastructure\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|d:\\wasalni\\wasalni\\wasalni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|solutionrelative:wasalni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019746D8-4BEC-4196-AB20-A3ED0F4F8ABE}|Wasalni_DataAccess\\Wasalni_DataAccess.csproj|d:\\wasalni\\wasalni\\wasalni_dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019746D8-4BEC-4196-AB20-A3ED0F4F8ABE}|Wasalni_DataAccess\\Wasalni_DataAccess.csproj|solutionrelative:wasalni_dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|d:\\wasalni\\wasalni\\wasalni\\controllers\\accountusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F20BCEB7-5D29-47D3-A724-F28041919CD3}|Wasalni\\Wasalni.csproj|solutionrelative:wasalni\\controllers\\accountusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 227,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 210,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountUserController.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni\\Controllers\\AccountUserController.cs",
+              "RelativeDocumentMoniker": "Wasalni\\Controllers\\AccountUserController.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni\\Controllers\\AccountUserController.cs",
+              "RelativeToolTip": "Wasalni\\Controllers\\AccountUserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:03:19.17Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -18,6 +68,103 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni_DataAccess\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Wasalni_DataAccess\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni_DataAccess\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Wasalni_DataAccess\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:54:43.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni\\Program.cs",
+              "RelativeDocumentMoniker": "Wasalni\\Program.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni\\Program.cs",
+              "RelativeToolTip": "Wasalni\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:50:40Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Wasalni\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Wasalni\\Infrastructure\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:27:43.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni\\Infrastructure\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Wasalni\\Infrastructure\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni\\Infrastructure\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Wasalni\\Infrastructure\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T20:27:40.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni_Models\\DTOs\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "Wasalni_Models\\DTOs\\RegisterUserDTO.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni_Models\\DTOs\\RegisterUserDTO.cs",
+              "RelativeToolTip": "Wasalni_Models\\DTOs\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:37:24.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni_Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Wasalni_Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni_Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Wasalni_Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:36:56.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IApplicationUser.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni\\Infrastructure\\Interfaces\\IApplicationUser.cs",
+              "RelativeDocumentMoniker": "Wasalni\\Infrastructure\\Interfaces\\IApplicationUser.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni\\Infrastructure\\Interfaces\\IApplicationUser.cs",
+              "RelativeToolTip": "Wasalni\\Infrastructure\\Interfaces\\IApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T19:29:54.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUserRepository.cs",
+              "DocumentMoniker": "D:\\Wasalni\\Wasalni\\Wasalni\\Infrastructure\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeDocumentMoniker": "Wasalni\\Infrastructure\\Repositories\\ApplicationUserRepository.cs",
+              "ToolTip": "D:\\Wasalni\\Wasalni\\Wasalni\\Infrastructure\\Repositories\\ApplicationUserRepository.cs",
+              "RelativeToolTip": "Wasalni\\Infrastructure\\Repositories\\ApplicationUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T01:43:10.694Z",
+              "EditorCaption": ""
             }
           ]
         }

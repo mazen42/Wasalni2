@@ -11,7 +11,7 @@ namespace Wasalni_Models
     {
         [Key]
         public int Id { get; set; }
-        public string Governorate { get; set; }
-        public string Area { get; set; }
+        public double Longitude { get; set; }
+        public double Latitude { get; set; }
     }
 }

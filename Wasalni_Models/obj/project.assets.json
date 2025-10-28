@@ -312,6 +312,15 @@
         "build": {
           "buildTransitive/net8.0/_._": {}
         }
+      },
+      "ServiceStack.Interfaces/8.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/ServiceStack.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/ServiceStack.Interfaces.dll": {}
+        }
       }
     }
   },
@@ -784,11 +793,27 @@
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ServiceStack.Interfaces/8.9.0": {
+      "sha512": "WFa+4sk8ZsfnxicvjHPS8U1NSGu+nvfdiZs4zYg9X3FekaIoQ0PjuN3JZsO/L/1QnabfOAkDCMF4omE7DEqjhw==",
+      "type": "package",
+      "path": "servicestack.interfaces/8.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net472/ServiceStack.Interfaces.dll",
+        "lib/net6.0/ServiceStack.Interfaces.dll",
+        "lib/net8.0/ServiceStack.Interfaces.dll",
+        "lib/netstandard2.0/ServiceStack.Interfaces.dll",
+        "servicestack.interfaces.8.9.0.nupkg.sha512",
+        "servicestack.interfaces.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 9.0.10"
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 9.0.10",
+      "ServiceStack.Interfaces >= 8.9.0"
     ]
   },
   "packageFolders": {
@@ -844,6 +869,10 @@
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[9.0.10, )"
+          },
+          "ServiceStack.Interfaces": {
+            "target": "Package",
+            "version": "[8.9.0, )"
           }
         },
         "imports": [

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace Wasalni_Models
 {
@@ -13,7 +14,7 @@ namespace Wasalni_Models
         [Required]
         public string PhoneNumber {  get; set; }
         [Required]
-        public int HomeLocationId { get; set; }
+        public int? HomeLocationId { get; set; }
         [ForeignKey(nameof(HomeLocationId))]
         public Location HomeLocation { get; set; }
         [Required]

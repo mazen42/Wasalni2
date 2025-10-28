@@ -10,3 +10,4 @@ D:\Wasalni\Wasalni\Wasalni_Models\obj\Debug\net9.0\refint\Wasalni_Models.dll
 D:\Wasalni\Wasalni\Wasalni_Models\obj\Debug\net9.0\Wasalni_Models.pdb
 D:\Wasalni\Wasalni\Wasalni_Models\obj\Debug\net9.0\ref\Wasalni_Models.dll
 D:\Wasalni\Wasalni\Wasalni_Models\obj\Debug\net9.0\Wasalni_Models.csproj.AssemblyReference.cache
+D:\Wasalni\Wasalni\Wasalni_Models\obj\Debug\net9.0\Wasalni_Models.sourcelink.json

@@ -395,3 +395,4 @@ D:\Wasalni\Wasalni\Wasalni\obj\Debug\net9.0\compressed\mrt5eej93n-crtukc3bp9.gz
 D:\Wasalni\Wasalni\Wasalni\obj\Debug\net9.0\compressed\twgizs0ocg-4nh2v1iw1v.gz
 D:\Wasalni\Wasalni\Wasalni\obj\Debug\net9.0\compressed\je42v413v3-o3mdh7m7nd.gz
 D:\Wasalni\Wasalni\Wasalni\obj\Debug\net9.0\compressed\3wh3ayrlrt-9lr4agq7k5.gz
+D:\Wasalni\Wasalni\Wasalni\obj\Debug\net9.0\Wasalni.sourcelink.json

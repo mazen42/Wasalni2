@@ -1,0 +1,32 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Build / bin / obj
+bin/
+obj/
+Debug/
+Release/
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Packages
+node_modules/
+packages/
+*.nupkg
+
+# Environment files
+.env
+.env.local
+
+# Auto-generated
+*.generated.*
+*.Designer.cs
